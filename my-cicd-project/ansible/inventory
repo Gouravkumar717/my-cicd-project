@@ -1,3 +1,0 @@
-[test]
-<webhost-ip> ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/path/to/key.pem
-
